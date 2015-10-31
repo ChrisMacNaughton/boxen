@@ -10,7 +10,7 @@ boxen::personal::homebrew_packages:
   - hub
   - imagemagick
   - bzr
-boxen:personal:casks:
+boxen::personal::casks:
   - adium
   - google-chrome
   - dash
@@ -23,6 +23,8 @@ boxen:personal:casks:
   - transmit
   - arq
   - disk-inventory-x
+  - virtualbox
+  - vagrant
   - steam
   - java
   - multimc
