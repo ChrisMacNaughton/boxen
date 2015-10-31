@@ -24,3 +24,5 @@ boxen:personal:casks:
   - arq
   - disk-inventory-x
   - steam
+  - java
+  - multimc
