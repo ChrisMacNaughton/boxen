@@ -1,2 +1,25 @@
 boxen::personal::homebrew_packages:
   - htop
+  - charm-tools
+  - juju
+  - ffmpeg
+  - tree
+  - spark
+  - coreutils
+  - git
+  - hub
+  - imagemagick
+  - bzr
+boxen:personal:casks:
+  - adium
+  - google-chrome
+  - dash
+  - hexchat
+  - iterm2
+  - vlc
+  - transmission
+  - dropbox
+  - gpgtools
+  - transmit
+  - arq
+  - disk-inventory-x
