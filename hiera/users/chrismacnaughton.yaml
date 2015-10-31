@@ -1,3 +1,2 @@
 boxen::personal::homebrew_packages:
-  - rust
   - htop
