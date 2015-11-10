@@ -10,11 +10,16 @@ boxen::personal::homebrew_packages:
   - hub
   - imagemagick
   - bzr
+  - watch
+  - juju-quickstart
+  - python
+  - pianobar
+  - node
 boxen::personal::casks:
   - adium
   - google-chrome
   - dash
-  - hexchat
+  # - hexchat
   - iterm2
   - vlc
   - transmission
@@ -25,6 +30,16 @@ boxen::personal::casks:
   - disk-inventory-x
   - virtualbox
   - vagrant
+  - gimp
+  - xquartz
+  - inkscape
+  - bittorrent-sync
+  - tunnelblick
+  - colloquy
+  - markright
+  - sublime-text3
+  # And for some fun at the end of the day
   - steam
   - java
   - multimc
+  - calibre
